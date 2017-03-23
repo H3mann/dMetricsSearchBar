@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  margin-top: -150px;
+
+}
+
+h1 {
+  font-family: 'Raleway';
+}
+
+.App-header {
+  background-color: #222;
+  height: 120px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.search {
+  padding: 30px;
+}
+
+.modal-container {
+  position: relative;
+}
+
+.modal-container .modal, .modal-container .modal-backdrop{
+  position: absolute;
+}
+
+
+
