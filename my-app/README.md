@@ -12,7 +12,7 @@ Created modal component to prompt user for the search.
 
 To install: 
 1. Clone this repo.
-2. Go to terminal, CD into the root directory of the repo. 
+2. Go to terminal, CD into the root directory of the repo. CD into 'my-app'folder.
 3. Enter command: npm i. Wait until installation is finished. 
 4. Enter command: npm start.
 5. Open [http://localhost:3000] to view app in the browser.
