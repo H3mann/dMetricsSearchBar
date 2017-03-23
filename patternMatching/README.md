@@ -2,7 +2,7 @@
 
 I used the FS module from node to read the .txt files, and then create algorithms for the pattern matching.
 Node achieves fast response times by making use of it's event loop and single threaded nature.
-'Mode 3' which asked for a edit distance calculation - makes use of a 'levenshtein'npm package, which provides a very accurate efficient edit distance.
+'Mode 3' which asked for a edit distance calculation - makes use of a 'levenshtein'npm package, which provides a very accurate edit distance.
 
 ### Installation
 
